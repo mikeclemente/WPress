@@ -1,4 +1,4 @@
 # WPress
 Um repositório dos arquivos do desenvolvimento do jogo Western Press com fins acadêmicos.
 
-A repositore with the codes of Western Press game, with academical purposes. 
+Project developed for academic purposes and aiming to train programming skills in C # language at Unity.
